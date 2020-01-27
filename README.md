@@ -11,4 +11,6 @@ Be aware to avoid objects that decrease your totaling score and try to get as ma
 Use WSAD :)
 ## Good Luck!
 
-*Game "completed" on 3/20/19
+Details
+* Game sprites/tilesets are not created by me (will reference sprite and tilesets links when found)
+* Game "completed" on 3/20/19
