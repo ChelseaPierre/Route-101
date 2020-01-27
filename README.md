@@ -8,5 +8,7 @@ Play as Pickachu in your quest to get all of your favorites!
 Be aware to avoid objects that decrease your totaling score and try to get as many of your loved items as possible before the time limit ends!
 
 #### Directions:
-Use your arrows keys is all :)
+Use WSAD :)
 ## Good Luck!
+
+*Game "completed" on 3/20/19
